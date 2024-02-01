@@ -1,5 +1,5 @@
 
-# React tRPC Prisma MongoDB 
+# React + tRPC + Prisma + MongoDB 
 
 <img src="https://github.com/Shaban-Eissa/React-tRPC-Prisma-MongoDB/assets/49924090/9926a968-38ef-46c7-b8b7-7032ebd609bb" width="900" height="450" />
 
