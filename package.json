@@ -1,0 +1,16 @@
+{
+  "name": "trpc-prisma-mongodb",
+  "version": "1.0.0",
+  "description": "Starter project for ExpressJS with React + Vite using tRPC",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently \"npm run dev --workspace=client\" \"npm run dev --workspace=server\""
+  },
+  "workspaces": [
+    "./packages/client",
+    "./packages/server"
+  ],
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
